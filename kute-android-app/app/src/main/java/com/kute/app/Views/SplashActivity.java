@@ -23,7 +23,11 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.kute.app.Helpers.Logger;
 import com.kute.app.R;
-
+/**
+ * package com.kute.app.R and com.kute.app.Helpers.Logger do not exist
+ * Delete this file to run the program.
+ * However, deleting the file causes log in error.
+ */
 /**
  * Created by charith on 6/18/16.
  */
